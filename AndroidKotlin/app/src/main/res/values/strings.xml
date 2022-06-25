@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GCASH</string>
+    <string name="card_title">ANDROID</string>
+
+    <string-array name="spinnerItems">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+</resources>
